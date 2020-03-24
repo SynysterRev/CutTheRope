@@ -1,0 +1,2673 @@
+fileFormatVersion: 2
+guid: dfa747eee18014a40acd96a2d2c1f7b7
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Spider-ManAmazing_0
+    21300002: Spider-ManAmazing_1
+    21300004: Spider-ManAmazing_2
+    21300006: Spider-ManAmazing_3
+    21300008: Spider-ManAmazing_4
+    21300010: Spider-ManAmazing_5
+    21300012: Spider-ManAmazing_6
+    21300014: Spider-ManAmazing_7
+    21300016: Spider-ManAmazing_8
+    21300018: Spider-ManAmazing_9
+    21300020: Spider-ManAmazing_10
+    21300022: Spider-ManAmazing_11
+    21300024: Spider-ManAmazing_12
+    21300026: Spider-ManAmazing_13
+    21300028: Spider-ManAmazing_14
+    21300030: Spider-ManAmazing_15
+    21300032: Spider-ManAmazing_16
+    21300034: Spider-ManAmazing_17
+    21300036: Spider-ManAmazing_18
+    21300038: Spider-ManAmazing_19
+    21300040: Spider-ManAmazing_20
+    21300042: Spider-ManAmazing_21
+    21300044: Spider-ManAmazing_22
+    21300046: Spider-ManAmazing_23
+    21300048: Spider-ManAmazing_24
+    21300050: Spider-ManAmazing_25
+    21300052: Spider-ManAmazing_26
+    21300054: Spider-ManAmazing_27
+    21300056: Spider-ManAmazing_28
+    21300058: Spider-ManAmazing_29
+    21300060: Spider-ManAmazing_30
+    21300062: Spider-ManAmazing_31
+    21300064: Spider-ManAmazing_32
+    21300066: Spider-ManAmazing_33
+    21300068: Spider-ManAmazing_34
+    21300070: Spider-ManAmazing_35
+    21300072: Spider-ManAmazing_36
+    21300074: Spider-ManAmazing_37
+    21300076: Spider-ManAmazing_38
+    21300078: Spider-ManAmazing_39
+    21300080: Spider-ManAmazing_40
+    21300082: Spider-ManAmazing_41
+    21300084: Spider-ManAmazing_42
+    21300086: Spider-ManAmazing_43
+    21300088: Spider-ManAmazing_44
+    21300090: Spider-ManAmazing_45
+    21300092: Spider-ManAmazing_46
+    21300094: Spider-ManAmazing_47
+    21300096: Spider-ManAmazing_48
+    21300098: Spider-ManAmazing_49
+    21300100: Spider-ManAmazing_50
+    21300102: Spider-ManAmazing_51
+    21300104: Spider-ManAmazing_52
+    21300106: Spider-ManAmazing_53
+    21300108: Spider-ManAmazing_54
+    21300110: Spider-ManAmazing_55
+    21300112: Spider-ManAmazing_56
+    21300114: Spider-ManAmazing_57
+    21300116: Spider-ManAmazing_58
+    21300118: Spider-ManAmazing_59
+    21300120: Spider-ManAmazing_60
+    21300122: Spider-ManAmazing_61
+    21300124: Spider-ManAmazing_62
+    21300126: Spider-ManAmazing_63
+    21300128: Spider-ManAmazing_64
+    21300130: Spider-ManAmazing_65
+    21300132: Spider-ManAmazing_66
+    21300134: link
+    21300136: Spider-ManAmazing_68
+    21300138: Spider-ManAmazing_69
+    21300140: Spider-ManAmazing_70
+    21300142: Spider-ManAmazing_71
+    21300144: Spider-ManAmazing_72
+    21300146: Spider-ManAmazing_73
+    21300148: Spider-ManAmazing_74
+    21300150: Spider-ManAmazing_75
+    21300152: Spider-ManAmazing_76
+    21300154: Spider-ManAmazing_77
+    21300156: Spider-ManAmazing_78
+    21300158: Spider-ManAmazing_79
+    21300160: Spider-ManAmazing_80
+    21300162: Spider-ManAmazing_81
+    21300164: Spider-ManAmazing_82
+    21300166: Spider-ManAmazing_83
+    21300168: Spider-ManAmazing_84
+    21300170: Spider-ManAmazing_85
+    21300172: Spider-ManAmazing_86
+    21300174: Spider-ManAmazing_87
+    21300176: Spider-ManAmazing_88
+    21300178: Spider-ManAmazing_89
+    21300180: Spider-ManAmazing_90
+    21300182: Spider-ManAmazing_91
+    21300184: Spider-ManAmazing_92
+    21300186: Spider-ManAmazing_93
+    21300188: Spider-ManAmazing_94
+    21300190: Spider-ManAmazing_95
+    21300192: Spider-ManAmazing_96
+    21300194: Spider-ManAmazing_97
+    21300196: Spider-ManAmazing_98
+    21300198: Spider-ManAmazing_99
+    21300200: Spider-ManAmazing_100
+    21300202: Spider-ManAmazing_101
+    21300204: Spider-ManAmazing_102
+    21300206: Spider-ManAmazing_103
+    21300208: Spider-ManAmazing_104
+    21300210: Spider-ManAmazing_105
+    21300212: Spider-ManAmazing_106
+    21300214: Spider-ManAmazing_107
+    21300216: Spider-ManAmazing_108
+    21300218: Spider-ManAmazing_109
+    21300220: Spider-ManAmazing_110
+    21300222: Spider-ManAmazing_111
+    21300224: Spider-ManAmazing_112
+    21300226: Spider-ManAmazing_113
+    21300228: Spider-ManAmazing_114
+    21300230: Spider-ManAmazing_115
+    21300232: Spider-ManAmazing_116
+    21300234: Spider-ManAmazing_117
+    21300236: Spider-ManAmazing_118
+    21300238: Spider-ManAmazing_119
+    21300240: Spider-ManAmazing_120
+    21300242: Spider-ManAmazing_121
+    21300244: Spider-ManAmazing_67
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spider-ManAmazing_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 658
+        width: 153
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2422d0af410494a4ab5a03ce28920d99
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_1
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 735
+        width: 57
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34de186459f243a41b0680bdac27ef61
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_2
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 753
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea119475076b97145afdf4c5102d23fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_3
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 711
+        width: 70
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85acd367fd9d49344a212d120561f01a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_4
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 731
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc76a25d7c8fcfd46842b74be0ad07a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_5
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 762
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33df0e2d0839aa4297a7f4713d10f0e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_6
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 759
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d018c00ca03fa8840b05530de02cfe1c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_7
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 762
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138f519b278a7eb4abc9187176aea467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_8
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 762
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64fdc4254ed422b42b5d14ddadc1835d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_9
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 762
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56822c61cc7a1c4bad72297fda48fa2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_10
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 762
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1948943db55a7c43b673092b2fa882c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_11
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 762
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9c17f806f3f4c4f807d016c81fe307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_12
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 762
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9bbb6d35d8d7ee45a2e0033cd2160e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_13
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 759
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f9a25e4b374f1449a9268cce47064b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_14
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 762
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f706b6863ed8ea4a8d30d65a94513e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_15
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 762
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2996b37ac9b146546af243217f5c9105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_16
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 762
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0535d5569f0bdf04f81d8fdc9edbef9b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_17
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 762
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8230ba954551b4192de6d69132c790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_18
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 762
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014f909a153c18a458bb7c37347198b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_19
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 759
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016fc044e14166a45a7667c49ba880e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_20
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 759
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b7015c4f9f82f4aa31a6efd5d66c5b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_21
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 527
+        width: 577
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f09ebea0eddc9745aec472cab2d2a0c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_22
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 687
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23848ce75b92c704db46f0210c395fc8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_23
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 745
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2aed148d3e3f54eb931fe8483564b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_24
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 745
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4670ac3ac1dad5643b4d62051ea99e7d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_25
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 745
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e65ab7d00e49cf41bbbca5bca1e5b71
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_26
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 745
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f648ebd749899b48b9ce6bff52047e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_27
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 745
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7745c1a0d08c1d644af7b56e49760b0b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_28
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 745
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e39c30c6ac30c647999c520e5f42d8b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_29
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 745
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97b449ab5c6a4745bd186e6d72815fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_30
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 745
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6b9495a6d934d45a351fa1212be21e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_31
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 745
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222745c90da15be40a6a7570d16d25fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_32
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 742
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27058705a7202914f87d53a18adb4234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_33
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 745
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15564c165af484549be64e15458e0466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_34
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 745
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e65e41c71eeb741abdeb46739975f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_35
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 745
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00575dcb37ef6ee4591e0cd1e501e410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_36
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 745
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa0a33f9e863d84db8bf31983b1f192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_37
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 745
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac0de9624dd8ec468fa3d5f5d0b865b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_38
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 745
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1abe064d6e595584ab38622542d3feb9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_39
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 745
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7260815d99d9deb40b91347a73090d21
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_40
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 745
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6023fc283f7f342af208f02ed95d7c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_41
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 658
+        width: 46
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5a5de42af91284995d3a00b0b3525f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_42
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 728
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e05e836aa5a384080f68f7a808b816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_43
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 728
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92710f01fea59446b99ec579649a6a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_44
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 726
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9d4ab67205fdb47848ff120b0b50dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_45
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 728
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7168aaf78548ed4890e9eba918d96c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_46
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 728
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f3aaa714aa6b940a3a7e54f1ddbae9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_47
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 728
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29004f88d4292e4419454804de58bcaa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_48
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 725
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356f81a3239b2384eb3041920cc3a8ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_49
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 728
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d558f9e821a2f644b0a1e6f68d61c7b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_50
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 728
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c400cfa5241f164db896aad36085c2d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_51
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 728
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33db09cfd8d4edf47b2cc4a2fa1cc9c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_52
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 728
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59cea8f07c074342ba2a53705a8e988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_53
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 728
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a64c5a1b057d957468c32228fd045422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_54
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 728
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1633546e91ba1f34694c95e65b68b6d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_55
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 728
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec6348061e68ad4aa6f1c490765c86f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_56
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 728
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30283378443c3d458c3a60acfe59c2e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_57
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 611
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d65f7e4ba51dd64cb57caa76c962955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_58
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 657
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a445a4e99ebfe84099fbdedf385cb1e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_59
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 616
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd44de2d2e0f4d48a2ac5283fd35976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_60
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 616
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3da9cd96bffcc40bc869fd549ea6fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_61
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 616
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3599aa6bd87ef5b4db2038996130b359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_62
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 616
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de243d89708dd44cb0cfff5a99cc682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_63
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 491
+        width: 85
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11801a148353bbd43b7582a56c48c638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_64
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 564
+        width: 151
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e360f4f142b989543a6f0ee6217d6ab6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_65
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 596
+        width: 93
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d19e1b216d2addb48ba8fdb98788e7b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_66
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 436
+        width: 142
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0ba534b887e604ca3d4987bd9a28d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_67
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 436
+        width: 136
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e45e28ae0cd24a4993d066c6be8522f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_68
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 530
+        width: 15
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2989b1c60e312e64d835d5948ecf1606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_69
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 436
+        width: 177
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c826f83a857cd784f80ae073987a4d49
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_70
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 508
+        width: 127
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7933b858644a9f84b9f4cf635a93bdb9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_71
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 544
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a14b6ca407c14e4dab0707c3781fc3f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_72
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 541
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6110a3ee4f0950549b3fec90e86df174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_73
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 501
+        width: 103
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a9ff312cfcc064b9fd07bf71f3e7bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_74
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 436
+        width: 152
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01610f825631abe4fb251d7896f5d03c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_75
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 510
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91582abfdceb62a4a86d590d830e1b5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_76
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 510
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f61d9565eff3443afcbfd0fa2852b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_77
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 507
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3739a5beea19dcf4d84653160e039130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_78
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 507
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2dd262e55fa8043928ce8c3a167f69
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_79
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 510
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea394da3fccd2184d8b31d37c00e1312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_80
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 491
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03df38ef1a0fce4418f30f9d6d40c71a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_81
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 494
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8a164329a88184d9b0e4e790251be6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_82
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 494
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b0bd540d1551545bca0809ab92bb41
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_83
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 494
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1c0fdc0264b844fb342f6125593a76
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_84
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 494
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcef88cebc027df4db5119136fae1588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_85
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 491
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85fe510016ab0d438e7bd358a57193e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_86
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 494
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2524f347f9aad93458875027d90997c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_87
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 494
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37412a65f54110740bb76979a27a6ede
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_88
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 494
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601a5b84bd910054785f5e8ef8e22eaa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_89
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 494
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c89839c8dfe0d46b6dde27808b1f76
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_90
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 494
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5077355a625901846a552ffe3b9ea737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_91
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 494
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43852155ade5174b9365bd107dcb726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_92
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 494
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ffad608438a4b14eb00d0c08f6ddd7a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_93
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 450
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9dd3d7742acdfa40a6c81b232754e82
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_94
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 450
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19cf96497084a944ba052b8d695e253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_95
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 446
+        width: 113
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af3ef2548846bc4bb782932a235745d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_96
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 442
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e38ad9ffffc4c439865d8a99e27abf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_97
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 424
+        width: 42
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5088368bb3b9049a36c462a6eefbc9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_98
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 267
+        width: 176
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef37090c0c24254aa5321948ed78f02
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_99
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 274
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 326078c3f5f925d4ab6616dc1ba74399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_100
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 282
+        width: 178
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae12ff8e44d5914f88c761eead1cd25
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_101
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 307
+        width: 126
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5785118fa3b8af64d871a805f81d8be8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_102
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 379
+        width: 151
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6452c8b2830ae3f4592ccb44f6ca9904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_103
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 189
+        width: 150
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d5b6036ee4b644195aec6b1bc87002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_104
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 285
+        width: 105
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a803a1e6680cf04ca4d00e95d888ad2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_105
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 285
+        width: 92
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07cf98be10df8d429037020f2922d72
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_106
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 339
+        width: 243
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2430402a5eb0d974fbc8453a35bcf1d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_107
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 295
+        width: 248
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b273d99c3ca52e41a56cc497a7fe697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_108
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 261
+        width: 242
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60996f2b0f2d9624b9a3641857ef1cb3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_109
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 215
+        width: 42
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79c27b74fa5d1d4190a8870ebb80583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_110
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 159
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232eff166499a1f4b9d9234c8a6c278d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_111
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 23
+        width: 164
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2160f9a6556c7240a5a0c505a0baca2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_112
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 24
+        width: 188
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ecac8932c9b8a459a301d4caa16991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_113
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 39
+        width: 136
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2698f75a6670bdf4b802940383aabe5c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_114
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 60
+        width: 103
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f7065093efe65488672feba3b325ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_115
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 23
+        width: 151
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1c0e9784ddeb94dbefae5c5c94dbdf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_116
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 158
+        width: 151
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81dbed36fc2e8764f9406e3894f0ea62
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_117
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 23
+        width: 149
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93178db2fe26aa041a524a3cb4e27979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_118
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 60
+        width: 227
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d512b677b90c6e445a32e7f82daa700d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_119
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 106
+        width: 243
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53741c9d444335944ba046bfd8ac0763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_120
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 50
+        width: 248
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1212b59cd9858a242957b6c1d9795db3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-ManAmazing_121
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 4
+        width: 242
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d5075709924894ca70f4fb4f765306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 891b78d1db9352041881b26a9394431e
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
